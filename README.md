@@ -49,7 +49,7 @@ RP2040 WS2812 [demonstrator](https://core-electronics.com.au/tutorials/how-to-us
 
 ## Kites and Darts
 
-generated with Inkscape to reflect a [Pythagorean tiling](https://en.wikipedia.org/wiki/Pythagorean_tiling) - Its just lines, rotated by 144° or 72° as needed
+generated with Inkscape to reflect a [Penrose tiling (P2)](https://en.wikipedia.org/wiki/Penrose_tiling#Kite_and_dart_tiling_(P2)) - Its just lines, rotated by 144° or 72° as needed
 
 laser cut white semi transparent acrylic 
 
