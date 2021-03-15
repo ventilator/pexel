@@ -18,7 +18,7 @@ I built it just to explore the _very_ nice Penrose pattern and tinker a bit with
 ### scaffolding
 
 Brown-purple filament (Prusament PLA Mystic Brown)
-![scaffolding](images\scaffolding.PNG)
+![scaffolding](images/scaffolding.PNG)
 
 ### backplane
 
@@ -41,7 +41,7 @@ housing for the RP: [Thingiverse Model](https://www.thingiverse.com/thing:475092
 
 The acrylic pieces should snap in, but on some shaped the retention pins broke of, so I used a bit of hot glue. There are slits for the LED wires from one compartment to the next
 
-![backside](images\backside.jpg)
+![backside](images/backside.jpg)
 
 ## Code
 
@@ -53,7 +53,7 @@ generated with Inkscape to reflect a [Pythagorean tiling](https://en.wikipedia.o
 
 laser cut white semi transparent acrylic 
 
-![tiling](images\tiling.jpg)
+![tiling](images/tiling.jpg)
 
 
 
@@ -66,7 +66,7 @@ Interesting part is the 3D Printing part:
 * activate thin wall detection in Prusa Slicer
 * one can get a nice front side effect by increasing the number of perimeter lines to 4 or 5, so the window bridges are all parallel 
 
-![detail](images\detail.jpg)
+![detail](images/detail.jpg)
 
 I printed a lot of discarded versions during the design phase (see evolution image above)
 
@@ -74,4 +74,4 @@ I printed a lot of discarded versions during the design phase (see evolution ima
 
 Solder 3 wires to the RPi, pin 22, gnd and 5V
 
-![rpi_pico](images\rpi_pico.jpg)
+![rpi_pico](images/rpi_pico.jpg)
