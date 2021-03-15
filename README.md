@@ -5,7 +5,7 @@ Playing around with penrose tilings, in particular _P2_, which consists of _kite
 
 20 darts and 25 kites, slowly changing their base color, giving a nice, non distracting back ground mood setting, looked a bit like church window style, in the end 
 
-![frontside](images/frontside.jpg)
+![final](images/final.jpg)
 
 cycling through the color wheel every min (or so)
 
@@ -46,6 +46,7 @@ The acrylic pieces should snap in, but on some shaped the retention pins broke o
 ## Code
 
 RP2040 WS2812 [demonstrator](https://core-electronics.com.au/tutorials/how-to-use-ws2812b-rgb-leds-with-raspberry-pi-pico.html) code, modified to the number of LEDs and the pattern I wanted
+![frontside](images/frontside.jpg)
 
 ## Kites and Darts
 
